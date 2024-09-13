@@ -26,7 +26,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
    git clone https://github.com/{your-username}/wanderlust.git
    ```
 
-2. **Navigate to the Backend Directory**
+2. **Navigate to the Backend Directory.**
 
    ```bash
    cd backend
